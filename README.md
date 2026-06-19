@@ -60,18 +60,6 @@ Google Sheets → Airtable → Softr Web App → End Users
 
 
 
-## 📷 Screenshots
-
-### Google Sheets Data Input
-*
-
-### Airtable Database Structure
-**
-
-### Softr Directory Interface
-**
-
-
 ## 📈 Key Learnings
 
 - Designing no-code data pipelines
