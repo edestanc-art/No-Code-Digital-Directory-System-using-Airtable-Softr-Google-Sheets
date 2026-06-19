@@ -66,7 +66,7 @@ Google Sheets → Airtable → Softr Web App → End Users
 *
 
 ### Airtable Database Structure
-*(Add screenshot here)*
+**
 
 ### Softr Directory Interface
 **
